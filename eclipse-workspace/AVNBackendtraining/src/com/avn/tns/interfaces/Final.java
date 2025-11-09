@@ -1,4 +1,4 @@
-package com.avn.tns.accessdemo;
+package com.avn.tns.interfaces;
 
 public class Final {
 	public static void main(String[]args) {

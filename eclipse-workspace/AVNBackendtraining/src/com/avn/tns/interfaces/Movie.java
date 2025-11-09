@@ -1,4 +1,4 @@
-package com.avn.tns.accessdemo;
+package com.avn.tns.interfaces;
 
 public interface Movie {
 	void hit();

@@ -1,4 +1,4 @@
-package com.avn.tns.accessdemo;
+package com.avn.tns.inheritance;
 
 public class RameshReddy {
 	public static void main(String[]args) {
